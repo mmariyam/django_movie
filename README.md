@@ -6,40 +6,35 @@
 
 <h2 align="center">Django Movie</h2>
 
-[Сайт](https://djwoms.pro)
 
-[Канал YouTube](https://www.youtube.com/channel/UC_hPYclmFCIENpMUHpPY8FQ?view_as=subscriber)
+Cinamelibrary on Django 3.
 
-Кинобиблиотека на Django 3.
+- Categories
+- Genres
+- Movies
+- Film shots
+- Directors\Actors
+- Rating
+- Reviews
+- Filters
 
-Проект написан в рамках обучающего курса по Django 3 на [youtube](https://youtube.com/playlist?list=PLF-NY6ldwAWrb6nQcPL21XX_-AmivFAYq).
+# Installing
 
-- Категории
-- Жанры
-- Фильмы
-- Кадры из фильма
-- Режиссеры\Актеры
-- Звезды рейтинга
-- Отзывы
-- Фильтры
+### 1) Create a virtual environment
 
-# Установка
-
-### 1) Создать виртуальное окружение
-
-### 2) Установить зависимости
+### 2) Install dependencies
 
     pip install -r requirements.txt
 
-### 3) Выполнить миграции
+### 3) Run migrations
 
     python manage.py migrate    
 
-### 4) Создать суперпользователя
+### 4) Create superuser
 
     python manage.py createsuperuser
 
-# Старт
+# Start
 
     python manage.py runserver
 
