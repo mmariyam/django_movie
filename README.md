@@ -38,3 +38,36 @@ Cinamelibrary on Django 3.
 
     python manage.py runserver
 
+### Demo of app
+![alt text](https://raw.githubusercontent.com/mmariyam/django_movie/main/1.JPG)
+
+### Demo of app
+![alt text](https://raw.githubusercontent.com/mmariyam/django_movie/main/2.JPG)
+
+### Demo of app
+![alt text](https://raw.githubusercontent.com/mmariyam/django_movie/main/3.JPG)
+
+### Demo of app
+![alt text](https://raw.githubusercontent.com/mmariyam/django_movie/main/4.JPG)
+
+### Demo of app
+![alt text](https://raw.githubusercontent.com/mmariyam/django_movie/main/5.JPG)
+
+### Demo of app
+![alt text](https://raw.githubusercontent.com/mmariyam/django_movie/main/6.JPG)
+
+### Demo of app
+![alt text](https://raw.githubusercontent.com/mmariyam/django_movie/main/7.JPG)
+
+### Demo of app
+![alt text](https://raw.githubusercontent.com/mmariyam/django_movie/main/8.JPG)
+
+### Demo of app
+![alt text](https://raw.githubusercontent.com/mmariyam/django_movie/main/9.JPG)
+
+### Demo of app
+![alt text](https://raw.githubusercontent.com/mmariyam/django_movie/main/10.JPG)
+
+### Demo of app
+![alt text](https://raw.githubusercontent.com/mmariyam/django_movie/main/11.JPG)
+
